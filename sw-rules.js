@@ -71,7 +71,6 @@ module.exports.config = {
                 const pathname = new URL(srcUrl).pathname;
                 return [
                     srcUrl,
-                    `https://cdn1.wzsco.top/npm/${pathname}`,
                     `https://cdn.cbd.int/${pathname}`,
                     `https://npm.elemecdn.com/${pathname}`,
                     `https://fastly.jsdelivr.net/npm/${pathname}`,
@@ -107,7 +106,7 @@ module.exports.getSpareUrls = srcUrl => {
     if (srcUrl.startsWith("https://npm.elemecdn.com")) {
         return {
             timeout: 3000,
-            list: [srcUrl, `https://cdn1.wzsco.top/${new URL(srcUrl).pathname}`],
+            list: [srcUrl, `https://cdn.cbd.int/${new URL(srcUrl).pathname}`],
         };
     }
 }
@@ -122,7 +121,4 @@ module.exports.ejectValues = (hexo, rules) => {
 };
 
 module.exports.skipRequest = request => request.url.startsWith("https://i0.hdslb.com") ||
-    request.url.startsWith('https://meting.qjqq.cn') ||
-    request.url.startsWith('https://api.i-meto.com') ||
-    request.url.startsWith('https://blog.wzsco.top/artalk') ||
-    request.url.startsWith('https://blog.wzsco.top/artalk/');
+    request.url.startsWith('https://meting.qjqq.cn');
