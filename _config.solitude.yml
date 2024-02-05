@@ -523,13 +523,10 @@ opengraph:
 css_prefix: false
 
 CDN:
-  internal: custom
-
-  third_party: custom
-
+  internal: cdnjs
+  third_party: cdnjs
   version: true
-
   custom_format: https://cdn.staticfile.org/${cdnjs_name}/${version}/${min_cdnjs_file}
-
+#  custom_format: https://cdn.bootcdn.net/ajax/libs/${cdnjs_name}/${version}/${min_cdnjs_file}
   option:
     scoicon_css: https://cdn2.codesign.qq.com/icons/7pOrz0WXB5ZWJPX/latest/iconfont.css
