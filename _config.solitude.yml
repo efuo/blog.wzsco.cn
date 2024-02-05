@@ -523,6 +523,7 @@ opengraph:
 css_prefix: false
 
 CDN:
+  # 本地文件 CDN ： source/js/*.js
   internal: cdnjs
   third_party: cdnjs
   version: true

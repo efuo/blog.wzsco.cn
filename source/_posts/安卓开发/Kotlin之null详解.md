@@ -1,13 +1,13 @@
 ---
-title: 安卓开发之路：Kotlin null 详解
+title: 安卓开发记：Kotlin null 详解
 date: 2023-07-02
 abbrlink: d27106dd
 categories:
-  - [ 经验分享,安卓 ]
+  - [ 经验分享 ]
+  - [安卓开发]
 tags:
   - [教程]
   - [ 安卓]
-desc: 在Kotlin中，null是一个重要的概念。
 recommend: true
 cover: https://p.wzsco.top/7ad1d87c36e184f2e978e215619c7971.png/cover
 ---
