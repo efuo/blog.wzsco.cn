@@ -1,4 +1,16 @@
 essay_list:
+  - content: 主题搜索更新了
+    date: 2024-01-28 14:06
+    image:
+      - https://p.wzsco.top/0dc6696f34c260a4dd44fe15d1a1aa17.png/blogimg
+    link: https://docs.wzsco.cn/
+  - content: 你抓得住今天，多远的路都能赶上。
+    date: 2024-01-25 16:06
+  - content: 终于搞定了 Sonoma 系统的 Wi-Fi 速率问题，现在全速跑满，系统也更新到了 14.3
+    date: 2024-01-25 14:06
+    image:
+      - https://p.wzsco.top/df0797090184e0d5b64e4fc2f65d9869.png/blogimg
+      - https://p.wzsco.top/effc4ba020ac616a64d075b3344498b7.png/blogimg
   - content: 一路往南
     date: 2024-01-15 18:25
     image:
@@ -8,7 +20,7 @@ essay_list:
   - content: 还是网线连接稳定，WIFI速率难评。
     date: 2024-01-08 12:40
     image:
-      - https://p.wzsco.top//3f490984b24be953a8926ba6bb9ca6e5.png/blogimg
+      - https://p.wzsco.top/3f490984b24be953a8926ba6bb9ca6e5.png/blogimg
   - content: 这一年，我经历了很多，也学到了很多，感谢这一年的自己，也感谢这一年的你们。
     date: 2024-01-01 00:00
     image:

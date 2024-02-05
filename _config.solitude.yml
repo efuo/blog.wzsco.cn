@@ -504,9 +504,9 @@ pwa:
 says:
   enable: true
   home_mini: true
-  style: 2
+  style: 1
   strip: 30
-  mode: memos
+  mode: local
   mode_link: https://memos.wzsco.top/api/v1/memo?creatorId=1&tag=says
 
 opengraph:
