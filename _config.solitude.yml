@@ -92,7 +92,7 @@ hometop:
   banner:
     enable: true # 是否打开顶部banner
     title: 宁静致远<br>热爱生活 # 左上角显示文字
-    url: WZSCO.TOP # title下方小字
+    url: WWW.WZSCO.CN # title下方小字
     icon:
       HTML:
         img: https://p.wzsco.top/ef972289c5bf712eefe72a2f143f095b.png/cover
@@ -136,7 +136,7 @@ hometop:
   recommendList:
     sup: 置顶 # 左上角显示文字
     title: Solitude主题文档 # 左下角大字
-    url: https://docs.wzsco.top/ # 点击跳转链接
+    url: https://docs.wzsco.cn/ # 点击跳转链接
     img: https://p.wzsco.top//d05332998b3404477cbc4e256ec80d79.png/cover # 显示背景
     color: '#006a73' # 背景颜色
 
@@ -236,7 +236,7 @@ footer:
       分类: /categories/
       标签: /tags/
     主题:
-      文档: https://docs.wzsco.top/
+      文档: https://docs.wzsco.cn/
       源码: https://github.com/wleelw/Hexo-theme-solitude
       更新日志: /update/
     服务:
@@ -353,7 +353,7 @@ capsule:
 
 moments:
   enable: true # 是否开启鱼塘 / Whether to enable fish pond
-  api: https://blog.wzsco.top/circle/ # api地址 / api address
+  api: https://moments.wzsco.top/ # api地址 / api address
   error_img: https://bu.dusays.com/2023/11/08/654af68b25bb8.jpg # 加载失败显示图片 / Loading failed display image
   sort_rule: created # 排序规则：created：按创建时间排序 / updated：按更新时间排序 : Sort rule: created: Sort by creation time / updated: Sort by update time
   expire_days: 1 # 缓存过期时间（天），默认为1天 / Cache expiration time (days), default is 1 day
