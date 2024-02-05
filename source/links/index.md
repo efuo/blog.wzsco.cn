@@ -43,7 +43,7 @@ desc: 与本站有关的友情链接
 ## 我的友链信息
 
 1. 我的名称：`王卓Sco`
-2. 网站地址：`https://blog.wzsco.top/`
+2. 网站地址：`https://blog.wzsco.cn/`
 3. 描述：`宁静致远，热爱生活。`
 4. 头像：`https://bu.dusays.com/2023/12/19/658179febbfb5.png`
 5. 订阅信息：`/atom.xml`
@@ -54,7 +54,7 @@ desc: 与本站有关的友情链接
 <!-- tab Solitude -->
 ```yaml
 - name: 王卓Sco
-  link: https://blog.wzsco.top/
+  link: https://blog.wzsco.cn/
   avatar: https://bu.dusays.com/2023/12/19/658179febbfb5.png
   descr: 宁静致远，热爱生活。
   topimg: https://bu.dusays.com/2023/12/19/658179febbfb5.png
@@ -65,7 +65,7 @@ desc: 与本站有关的友情链接
 <!-- tab Butterfly -->
 ```yaml
 - name: 王卓Sco
-  link: https://blog.wzsco.top/
+  link: https://blog.wzsco.cn/
   avatar: https://bu.dusays.com/2023/12/19/658179febbfb5.png
   descr: 宁静致远，热爱生活。
 ```
@@ -74,7 +74,7 @@ desc: 与本站有关的友情链接
 <!-- tab Candy -->
 ```yaml
 - name: 王卓Sco
-  link: https://blog.wzsco.top/
+  link: https://blog.wzsco.cn/
   avatar: https://bu.dusays.com/2023/12/19/658179febbfb5.png
   descr: 宁静致远，热爱生活。
   siteshot: https://bu.dusays.com/2023/12/19/658179febbfb5.png
@@ -87,7 +87,7 @@ desc: 与本站有关的友情链接
   title: '王卓Sco',
   intro: '宁静致远，热爱生活。',
   image: 'https://bu.dusays.com/2023/12/19/658179febbfb5.png',
-  link: 'https://blog.wzsco.top/'
+  link: 'https://blog.wzsco.cn/'
 }
 ```
 <!-- endtab -->
@@ -99,7 +99,7 @@ desc: 与本站有关的友情链接
   title: '王卓Sco',
   intro: '宁静致远，热爱生活。',
   image: 'https://bu.dusays.com/2023/12/19/658179febbfb5.png',
-  link: 'https://blog.wzsco.top/'
+  link: 'https://blog.wzsco.cn/'
 }
 ```
 <!-- endtab -->
@@ -107,14 +107,14 @@ desc: 与本站有关的友情链接
 <!-- tab Html -->
 
 ```html
-<a href="https://blog.wzsco.top/" rel="external nofollow">王卓Sco - 宁静致远，热爱生活。</a>
+<a href="https://blog.wzsco.cn/" rel="external nofollow">王卓Sco - 宁静致远，热爱生活。</a>
 ```
 <!-- endtab -->
 
 <!-- tab Jade -->
 
 ```jade
-a(href='https://blog.wzsco.top/' rel="external nofollow") 王卓Sco - 宁静致远，热爱生活。
+a(href='https://blog.wzsco.cn/' rel="external nofollow") 王卓Sco - 宁静致远，热爱生活。
 ```
 <!-- endtab -->
 
@@ -123,7 +123,7 @@ a(href='https://blog.wzsco.top/' rel="external nofollow") 王卓Sco - 宁静致�
 {% endfold %}
 
 1. 我的名称：`王卓Sco`
-2. 网站地址：`https://blog.wzsco.top/`
+2. 网站地址：`https://blog.wzsco.cn/`
 3. 描述：`宁静致远，热爱生活。`
 4. 头像：`https://bu.dusays.com/2023/12/19/658179febbfb5.png`
 5. 订阅信息：`/atom.xml`
