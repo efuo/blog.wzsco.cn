@@ -1,5 +1,5 @@
 ---
-title: 主题标签 Tag Plugins
+title: Solitude主题使用：Tag Plugins
 abbrlink: e19cb4b7
 date: 2023-11-6 15:37
 recommend: true

@@ -1,5 +1,5 @@
 ---
-title: 那年今日卡片
+title: Solitude主题使用：那年今日
 recommend: true
 tags:
   - [ 精选 ]

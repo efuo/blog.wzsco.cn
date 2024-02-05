@@ -1,5 +1,5 @@
 ---
-title: 个性定位卡片
+title: Solitude主题使用：个性定位
 recommend: true
 tags:
   - [ 精选 ]

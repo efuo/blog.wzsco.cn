@@ -1,5 +1,5 @@
 ---
-title: 数学公式
+title: Solitude主题使用：数学公式
 recommend: true
 categories:
   - [ 我的项目,Solitude ]
@@ -9,6 +9,7 @@ tags:
    - [ 网页前端 ]
 abbrlink: b1d1f75b
 katex: true
+date: 2023-12-07 00:00:00
 cover: https://p.wzsco.top//3056a4f7b6012443665bf3eb0861b5d1.png/cover
 ---
 

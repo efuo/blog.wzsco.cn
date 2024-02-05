@@ -1,5 +1,5 @@
 ---
-title: Hexo 的 Solitude 使用教程：部署友链朋友圈
+title: Solitude主题使用：部署友链朋友圈
 date: '2024-01-31 08:35'
 tags:
   - [ Hexo ]

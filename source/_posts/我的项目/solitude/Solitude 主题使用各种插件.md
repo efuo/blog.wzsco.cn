@@ -1,5 +1,5 @@
 ---
-title: 推荐插件
+title: Solitude主题使用：推荐插件
 recommend: true
 tags:
    - [ 精选 ]
