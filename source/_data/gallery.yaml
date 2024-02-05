@@ -1,0 +1,47 @@
+gallery:
+  url: gallery
+  title: 我的相册
+  descr: 这里存放一些照片。
+  cover: https://p.wzsco.top/e866a5bf1f10b57911e5250e6b58dab0.png/cover
+  comment: true
+  rightbtn: 关于我
+  rightbtnlink: '/about/'
+  album_list:
+    - class_name: 我的日常
+      descr: 这里存放一些有关于我的日常的照片。
+      comment: true
+      cover: https://p.wzsco.top/35f589b5b91e5fdefe1ba68d65b1e42f.png/cover
+      album: me
+      items:
+        - image: https://p.wzsco.top//820d8283b8deb82ba58c5f8f987159b1.jpeg/cover
+          locate: 湖南耒阳
+          content: 和朋友一起吃饭。
+          date: 2023-10-02
+        - image: https://p.wzsco.top//7dd75f7957bd936c49a984158fd78b8e.jpeg/cover
+          locate: 湖南长沙
+          content: 和朋友逛国金。
+          date: 2023-10-03
+        - image: https://p.wzsco.top//17118a2438117aec4e300e30a3d43271.jpeg/cover
+          locate: 江西萍乡
+          content: 和好友一起爬武功山的合照。
+          date: 2023-10-16
+        - image: https://p.wzsco.top//847c61735921bb2684f8ea541daa4d27.jpeg/cover
+          locate: 湖南耒阳
+          content: 第一次获得对自己有意义的奖项。
+          date: 2023-11-04
+        - image: https://p.wzsco.top//c5f1e7b24b8bdc53380bc62f3b1ddf84.jpeg/cover
+          locate: 湖南耒阳
+          content: 给Crush做的雪花
+          date: 2024-01-24
+        - image: https://p.wzsco.top//d180038fa63be6f875aeca9aed36f4c8.jpeg/cover
+          locate: 湖南衡阳
+          content: 旅途的重点在哪里
+          date: 2024-02-01
+        - image: https://p.wzsco.top//b17247be8bafff45b5ec30e531e28924.png/cover
+          locate: 湖南耒阳
+          content: 好像闲云野鹤
+          date: 2023-02-02
+        - image: https://p.wzsco.top//fe6b683319a2a9a78350eeacf9fff56c.jpeg/cover
+          locate: 湖南耒阳
+          content: 没想到Huawei还在维护19年的平板系统，推送了4.0
+          date: 2023-11-09

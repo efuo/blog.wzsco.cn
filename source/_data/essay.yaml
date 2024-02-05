@@ -1,0 +1,59 @@
+essay_list:
+  - content: 一路往南
+    date: 2024-01-15 18:25
+    image:
+      - https://p.wzsco.top/654baac3cc402151a9da1e21999e0f03.png/blogimg
+  - content: 准备冲刺了！
+    date: 2024-01-12 21:11
+  - content: 还是网线连接稳定，WIFI速率难评。
+    date: 2024-01-08 12:40
+    image:
+      - https://p.wzsco.top//3f490984b24be953a8926ba6bb9ca6e5.png/blogimg
+  - content: 这一年，我经历了很多，也学到了很多，感谢这一年的自己，也感谢这一年的你们。
+    date: 2024-01-01 00:00
+    image:
+      - https://p.wzsco.top//75a83ca0a29ef2c90d9cec179b2dd23e.png/blogimg
+  - content: 感觉活着好累，有点抑郁了。
+    date: 2023-12-24 18:58
+    aplayer:
+      server: netease
+      id: 27646205
+  - content: 主题终于完美适配waline了！并且支持热评功能！
+    date: 2023-12-10 14:06
+    link: https://wzsco.top/
+  - content: 第一集主题安装视频完成录制了！
+    date: 2023-12-05 10:00
+    video:
+      bilibili: BV1z64y1j7gs
+  - content: 双十一购入一台Redmi K60，上手感觉还是有点丑，耐不住 16 + 256 版本才1670的价格，入手了。
+    date: 2023-11-13 20:00
+    image:
+      - https://p.wzsco.top/3f6c5fadd5fc3f832188440c00887e3c.JPG/blogimg
+    link: https://www.mi.com/shop/buy/detail?product_id=18075&cfrom=search
+  - content: 来一首慢音乐。
+    date: 2023-11-10 14:06
+    aplayer:
+      server: netease
+      id: 1301572067
+  - content: 愉快的一天，每年都有你们陪伴。
+    date: 2023-11-08 14:06
+    image:
+      - https://p.wzsco.top/090dc586fc5ee23afa4e68c86cf20a76.JPG/blogimg
+  - content: 主题交流群已建立！
+    date: 2023-10-31 15:32
+    image:
+      - https://p.wzsco.top/ed2a4a2bb4ae5391968e65862d03b77d.png/blogimg
+    link: https://wzsco.top/
+  - content: 这次希望顺利，成功上岸。
+    date: 2023-10-23 14:13
+    image:
+      - https://p.wzsco.top/25776cae0612f8e19109cf61174e31dd.JPG/blogimg
+  - content: 来临方知昔未见，武功山巅尽目妍美景。
+    date: 2023-10-16 15:32
+    image:
+      - https://p.wzsco.top/0d5ca1a4177316a5d927246f1934cdf1.webp/blogimg
+      - https://p.wzsco.top/b89fb2cbe9fac5a74bd174c0b8100cb0.webp/blogimg
+  - content: 武功山金顶！
+    date: 2023-10-16 15:32
+    video:
+      bilibili: BV1nj411i7Ja

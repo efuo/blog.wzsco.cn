@@ -1,0 +1,240 @@
+banner_suffix: /cover.240w
+
+links:
+  #  - class_name: 爱发电
+  #    descr: 在爱发电中赞助博主的朋友们
+  #    type: card
+  #    link_list:
+  #      - name: 理随
+  #        link: https://blog.lisui.top/
+  #        descr: 生而无畏，战至终章。
+  #        avatar: https://p.wzsco.top/d4f22c4754d273984b1244a09b279c3d.webp
+  #        topimg: https://p.wzsco.top/d4f22c4754d273984b1244a09b279c3d.webp
+  #        tag: 生活
+  - class_name: 推荐
+    descr: 博主关注的博客
+    type: card
+    suffix: /cover.mini
+    topimg_suffix: /cover.siteshot
+    link_list:
+      - name: 王卓Sco
+        link: https://blog.wzsco.top/
+        avatar: https://p.wzsco.top/9178f49dba1ccf9d86a29fc2c9ad13b7.png
+        descr: 宁静致远，热爱生活。
+        topimg: https://p.wzsco.top/756bea8eff580c7b84fb88b76295ee39.webp
+        tag: 博主
+        color: vip
+      - name: 张洪Heo
+        link: https://blog.zhheo.com/
+        avatar: https://p.wzsco.top/6bbf7ab77b78aa326f2fb1291da58df3.png
+        descr: 分享设计与科技生活
+        topimg: https://p.wzsco.top/8bee878e9d1a496e795839e93e6ef6d5.webp
+        tag: 主题设计
+        color: vip
+      - name: Adil
+        link: https://blog.adil.com.cn/
+        avatar: https://p.wzsco.top/b7d88cedd02460598ed9fa65888b6b76.webp
+        descr: BW/HANA顾问,BI工程师,数据分析师,数据科学家。
+        topimg: https://p.wzsco.top/05306dfe55a1b6ec66d4eb434ba3363f.webp
+        tag: 主题开发
+        color: vip
+      - name: 亦小封
+        link: https://blog.meuicat.cn/
+        tag: 亦封
+        descr: 胶片和文字都能记录生活.
+        color: vip
+        avatar: https://p.wzsco.top/81269e02b906a600880bb51b8ea9cde4.jpeg
+        topimg: https://p.wzsco.top/81269e02b906a600880bb51b8ea9cde4.jpeg
+      - name: Leonus
+        link: https://blog.leonus.cn/
+        avatar: https://p.wzsco.top//31ac16f0efa91e5c39ba63b4cd1a3614.jpeg
+        descr: 进一寸有进一寸的欢喜。
+        tag: 猛壹
+        color: speed
+        topimg: https://p.wzsco.top//31ac16f0efa91e5c39ba63b4cd1a3614.jpeg
+  - class_name: 技术
+    descr: 技术知识为主的博客
+    type: item
+    suffix: /cover.mini
+    link_list:
+      - name: Rootlex
+        link: https://blog.nalex.top/
+        avatar: https://p.wzsco.top/8fdd0fa76b8aebe1cdf875066ac8ad13.webp
+        descr: 寒蝉黎明之时，便是重生之日
+        tag: 荐
+        color: vip
+      - name: Adil
+        link: https://blog.adil.com.cn/
+        avatar: https://p.wzsco.top/b7d88cedd02460598ed9fa65888b6b76.webp
+        descr: BW/HANA顾问,BI工程师,数据分析师,数据科学家。
+        tag: 荐
+        color: vip
+      - name: Akilarの糖果屋
+        link: https://akilar.top/
+        avatar: https://p.wzsco.top/9466db4c1b521b6468c26295df07b4f1.webp
+        descr: 期待您的光临！
+        tag: 荐
+        color: vip
+      - name: iMaeGoo
+        link: https://www.imaegoo.com/
+        avatar: https://p.wzsco.top/522879f7182a4dc5a11d25b1e5b9687b.webp
+        descr: 虹墨空间站
+        tag: 荐
+        color: vip
+      - name: 安知鱼
+        link: https://blog.anheyu.com/
+        avatar: https://p.wzsco.top/9125883403299466b7472cbe78754c7c.webp
+        descr: 生活明朗，万物可爱
+      - name: 亦小封
+        link: https://blog.meuicat.cn/
+        descr: 胶片和文字都能记录生活.
+        tag: 亦封
+        color: speed
+        avatar: https://p.wzsco.top/81269e02b906a600880bb51b8ea9cde4.jpeg
+      - name: Karuboniru
+        link: https://yanqiyu.info/
+        avatar: https://p.wzsco.top/b75f2879af2c163441ce81516c1c04d0.webp
+        descr: 实验粒子物理方向读博中, 主要研究中微子相关
+      - name: Ading阿定
+        link: https://blog.saop.cc
+        avatar: https://p.wzsco.top/2a334696b7e647650e04a66ee16ecca9.webp
+        descr: 我们终会相遇相知，在那悠远的苍穹
+      - name: 南方嘉木
+        link: https://gavin-chen.top/
+        avatar: https://p.wzsco.top/cd73ce42812510e51acfdefcd39cb8b5.webp
+        descr: 不畏将来，不念过往。
+      - name: 满心Heo
+        link: https://blog.lovelu.top/
+        avatar: https://p.wzsco.top/cff3dee100bc73aaf97b932073940c8c.webp
+        descr: 追求让人充实，分享让人快乐
+      - name: 青笺画卿颜
+        link: https://blog.qjhqy.com/
+        avatar: https://p.wzsco.top/aa6acd50c114f7c7f72f74ee44cffa56.webp
+        descr: 鸢语慕君年
+      - name: btwoa
+        link: https://blog.btwoa.com/
+        avatar: https://p.wzsco.top/02d24102f0aac38bced85d5c73594770.webp
+        descr: 世界为你简单
+      - name: 肤浅Leo
+        link: https://blog.kaixed.com/
+        avatar: https://p.wzsco.top/1eb99f55e294b00fc35c310585133338.webp
+        descr: 淡泊明志，宁静致远
+      - name: Naokuo
+        link: https://www.naokuo.top/
+        avatar: https://p.wzsco.top//21ac4bfe7ae69dcc5a8da8971880a9dc.png
+        descr: 请给我来亿碗三鲜面
+      - name: Leonus
+        link: https://blog.leonus.cn/
+        avatar: https://p.wzsco.top//31ac16f0efa91e5c39ba63b4cd1a3614.jpeg
+        descr: 进一寸有进一寸的欢喜。
+        tag: Leonus
+        color: speed
+      - name: 小李同学
+        link: https://blog.xxfer.cn/
+        avatar: https://p.wzsco.top//a08451cbe1b85541a6160b740eb64e21.jpeg
+        descr: 一支努力变强的小彩笔
+      - name: 虎了吧唧
+        link: https://blog.hulebaji.me/
+        avatar: https://p.wzsco.top//6b4e7ca3fc43148bde634540fc7f64b2.png
+        descr: 研墨成浆，提笔思量
+  - class_name: 生活
+    descr: 这年头，谁还没个生活呢
+    type: item
+    suffix: /cover.mini
+    link_list:
+      - name: 张洪Heo
+        link: https://blog.zhheo.com/
+        avatar: https://p.wzsco.top/6bbf7ab77b78aa326f2fb1291da58df3.png
+        descr: 分享设计与科技生活
+        tag: 荐
+        color: vip
+      - name: 杜老师说
+        link: https://dusays.com/
+        avatar: https://p.wzsco.top/cada4272f68764cc4c855bbf1ed9ef3f.png
+        descr: 师者，传道，授业，解惑也！
+        tag: 荐
+        color: vip
+      - name: Mr·Ldd
+        link: https://nxlbc.cn:8091/
+        avatar: https://p.wzsco.top/38581a8e1f8d6761149828f33ccf200a.webp
+        descr: Nas、服务器、记录学习
+        tag: 荐
+        color: vip
+      - name: CyberWEI
+        link: https://www.cyberwei.com/
+        avatar: https://p.wzsco.top/295227508b08ca7c036d628d80562b6d.webp
+        descr: 这里是CyberWEI，一个游荡在赛博空间的幽灵（bushi）
+      - name: CasecoRI
+        link: https://www.casecori.top/
+        avatar: https://p.wzsco.top/f6bcea92ec9ab0e16711fbd24c774459.webp
+        descr: 悟已往之不谏，知来者之可追。
+      - name: 海阔蓝
+        link: https://blog.hklan.top/
+        avatar: https://p.wzsco.top/c865fd24557df4a9c8877ea05624b225.webp
+        descr: 生而热忱❤️,终也欢洽
+      - name: 上官云琛
+        link: https://www.sgyunc.com/
+        avatar: https://p.wzsco.top/40a877f941a61aa729715fc2b805e7b3.webp
+        descr: 大风吹倒梧桐树 自有旁人论短长
+      - name: 道麟笔记
+        link: https://www.fivelin.com
+        descr: 蛟龙的奇思妙想
+        avatar: https://p.wzsco.top/0c9186b351a3f8adb8a18de5ec51ba2d.webp
+      - name: 葱苓sama
+        link: https://blog.ciraos.top
+        avatar: https://p.wzsco.top/f629c0e71edbaca5fe3b24a8bbd185cc.webp
+        descr: Dare && Do
+      - name: 八九
+        link: https://bkm.net/
+        avatar: https://p.wzsco.top/8671ba3fde9ae03a6782969e080c57a1.webp
+        descr: 记录在人间苦逼的日子.
+      - name: 呓语梦轩
+        link: https://blog.awaae001.top
+        avatar: https://p.wzsco.top/06df50031f5b347a16b2c1704889a9d7.png
+        descr: 用心享受生活
+      - name: 余生
+        link: https://yszwbk.com/
+        avatar: https://p.wzsco.top/191e5c979feebaf8d86119f74316aecb.png
+        descr: 用心享受生活
+      - name: 青猫
+        link: https://www.shang.ac.cn/
+        avatar: https://p.wzsco.top/8281e8b3a315f3e668ff6b1e648bf02f.png
+        descr: 我的满腔热情好像耗尽了
+      - name: 一只鬆
+        link: https://sotkg.link
+        avatar: https://p.wzsco.top/915e37cec482ffb99c247fcab8db7211.png
+        descr: 心有多宽，世界就有多远
+      - name: 汤包青蟹
+        link: http://www.tbqx.com/
+        avatar: https://p.wzsco.top/3388e17a3bc849ec471a4f55a66a057b.png
+        descr: 除了吃，还是喜欢吃。
+      - name: 六月是只猫
+        link: https://www.lyszm.com
+        avatar: https://p.wzsco.top/b48d5771a121d46fb473102826763089.png
+        descr: 生活，一半家长里短，一半山川湖海。
+      - name: 理随
+        link: https://vercel.lisui.top/
+        avatar: https://p.wzsco.top/3cacfb7ae629778c67432773badf3f88.webp
+        descr: 生而无畏，站至终章。
+
+  - class_name: 失联
+    descr: 失联的博客（404、无法访问）
+    type: discn
+    suffix: /cover.mini
+    link_list:
+      - name: 小N同学
+        link: https://www.imcharon.com/
+        avatar: https://p.wzsco.top/9c314c85966bae4d35338c5757ffcb48.webp
+        descr: 青石落晚巷 故人未还乡
+      - name: Cisyam
+        link: https://manamn.space/
+        avatar: https://p.wzsco.top/b48355734b7936ba10457f21de02043c.webp
+        descr: 分享思想，留下痕迹
+      - name: 今晚打老虎
+        link: https://blog.volimte.vip/
+        avatar: https://p.wzsco.top/23deebd91b7083c5d004ee52915b588a.webp
+        descr: 深藏不露是一种卓越的才能
+      - name: 阿歪
+        link: https://waimiao.cn/
+        avatar: https://p.wzsco.top//b89342a42e6dfbd49b8fa0df89e07c41.png
+        descr: 见天地 观众生 识吾身
