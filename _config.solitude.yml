@@ -441,7 +441,7 @@ comment:
   commentBarrage: false # 热评开关
   newComment: true # 最新评论开关
   twikoo:
-    envId: https://blog.wzsco.top/twikoo
+    envId: https://twikoo.wzsco.cn/.netlify/functions/twikoo
     lang: 'zh-CN'
     accessToken:  # accessToken
 
