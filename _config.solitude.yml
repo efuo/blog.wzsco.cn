@@ -504,10 +504,10 @@ pwa:
 says:
   enable: true
   home_mini: true
-  style: 1
+  style: 2
   strip: 30
-  mode: local
-  mode_link: https://memos.wzsco.top/api/v1/memo?creatorId=1&tag=says
+  mode: memos
+  mode_link: https://memos.wzsco.cn/api/v1/memo?creatorId=1&tag=says
 
 opengraph:
   enable: true
@@ -524,8 +524,8 @@ css_prefix: false
 
 CDN:
   # 本地文件 CDN ： source/js/*.js
-  internal: cdnjs
-  third_party: cdnjs
+  internal: custom
+  third_party: custom
   version: true
   custom_format: https://cdn.staticfile.org/${cdnjs_name}/${version}/${min_cdnjs_file}
 #  custom_format: https://cdn.bootcdn.net/ajax/libs/${cdnjs_name}/${version}/${min_cdnjs_file}
