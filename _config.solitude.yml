@@ -259,7 +259,7 @@ footer:
     - name: 主题
       url: https://github.com/wleelw/hexo-theme-solitude
     - name: 订阅
-      url: /rss/
+      url: /atom.xml
 
 page:
   error: true #
@@ -296,7 +296,7 @@ post:
     wechat: https://bu.dusays.com/2023/11/07/6549e79364fa3.png
     alipay: https://bu.dusays.com/2023/11/07/6549e79d02bd6.png
     url: /about # 打赏统计页面链接
-  rss: /rss/
+  rss: /atom.xml
   # 文章颜色获取
   covercolor: #文章cover取色
     enable: true # 是否开启
@@ -506,8 +506,6 @@ says:
   home_mini: true
   style: 2
   strip: 30
-  mode: memos
-  mode_link: https://memos.wzsco.cn/api/v1/memo?creatorId=1&tag=says
 
 opengraph:
   enable: true
@@ -524,7 +522,7 @@ css_prefix: false
 
 CDN:
   # 本地文件 CDN ： source/js/*.js
-  internal: custom
+  internal: cdnjs
   third_party: custom
   version: true
   custom_format: https://cdn.staticfile.org/${cdnjs_name}/${version}/${min_cdnjs_file}
