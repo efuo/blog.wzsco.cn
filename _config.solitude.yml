@@ -522,7 +522,7 @@ css_prefix: false
 
 CDN:
   # 本地文件 CDN ： source/js/*.js
-  internal: cdnjs
+  internal: custom
   third_party: custom
   version: true
   custom_format: https://cdn.staticfile.org/${cdnjs_name}/${version}/${min_cdnjs_file}
