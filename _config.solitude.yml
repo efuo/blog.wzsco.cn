@@ -87,6 +87,11 @@ nav:
         icon: sco-train-line
         onclick:
         id: travellings_button
+      - name: 虫洞 - 友链接力
+        url: https://foreverblog.cn/go.html
+        icon : sco-forever-solid
+        onclick:
+        id: travellings_button
 
 hometop:
   banner:
