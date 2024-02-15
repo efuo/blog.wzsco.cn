@@ -174,13 +174,16 @@ rewardList:	# 底部捐赠
     icon: sco-wechat-fill
   - name: 凉城.
     money: 6.66
+    vip: true
     time: 2024-02-02
     icon: sco-wechat-fill
   - name: 理随
     money: 6.66
+    vip: true
     time: 2024-02-02
-    icon: sco-wechat-fill
+    icon: sco-qq-fill
   - name: btwoa
     money: 30
     time: 2024-02-04
     icon: sco-wechat-fill
+    vip: true

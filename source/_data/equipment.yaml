@@ -1,15 +1,75 @@
 - class_name: 生产力
   description: 提升自己生产效率的硬件设备
   equipment_list:
-    - name: 群晖 DS920+
-      specification: 性价比超高
-      description: 很棒的网络存储解决方案以及流媒体传输服务器
-      image: https://p.wzsco.top/3dd5f0455a2bdfe39a45250793e24dc9.png/cover
-- class_name: 出行
-  description: 用来出行的实物及设备
+    - name: iPhone 15 Pro Max
+      specification: 1TB
+      description: 1TB存储，性能强劲，电池续航长，不得不说是非常强的手机了
+      image: https://p.wzsco.top/28d59f146df896b38c1e156629f5bbb9.png/cover
+      link: https://www.apple.com.cn/iphone-15-pro/
+    - name: MacBook Pro
+      specification: 36GB + 2TB
+      description: M3 Max处理器，性能强劲，电池续航长，14寸携带方便
+      image: https://p.wzsco.top/33d09c5a03628df14fd905698f53d637.png/cover
+      link: https://www.apple.com.cn/macbook-pro/
+    - name: 妙控板
+      specification: 2代
+      description: 适合MacBook Pro使用，携带方便，用来做简单的设计
+      image: https://p.wzsco.top/5008c96e6aa241e66eb77062a2645439.png/cover
+      link: https://www.apple.com.cn/shop/product/MMMP3CH/A
+    - name: 妙控鼠标
+      specification: 2代
+      description: 习惯了Mac鼠标逻辑，使用起来很舒服
+      image: https://p.wzsco.top/febcc5d68f87e1f3636c291c6cb899a7.png/cover
+      link: https://www.apple.com.cn/shop/product/MK2E3CH/A
+- class_name: 娱乐
+  description: 提升自己娱乐体验的硬件设备
   equipment_list:
+    - name: Apple Watch Series 9
+      specification: 41mm
+      description: 41mm大屏，电池续航长，非常适合运动
+      image: https://p.wzsco.top/db7970f1f2a282e4002c6f67f583daf1.png/cover
+      link: https://www.apple.com.cn/apple-watch-series-9/
     - name: AirPods Pro
-      specification: 标准版
+      specification: 2代
       description: 可以说是非常强的耳机了，还有好几次固件大幅度更新。apple生态只要有两个设备及以上，必入。
-      image: https://p.wzsco.top/c48741e79c61289cfb82b1b7ec98ba76.png/cover
+      image: https://p.wzsco.top/1e0345adf281585ad8cdf62a4f338a9a.png/cover
       link: https://www.apple.com.cn/airpods-pro/
+    - name: AirPods Max
+      specification: 2代
+      description: 对音效要求高的人，可以选择入手，价格摆在那。
+      image: https://p.wzsco.top/66098c0aac71a17b7db021f84db365ca.png/cover
+      link: https://www.apple.com.cn/airpods-max/
+    - name: HomePod
+      specification: 2代
+      description: 适合家庭使用，高保真音质，令人沉浸。
+      image: https://p.wzsco.top/3669ea0981f3e62021325b560fdd4a8c.png/cover
+      link: https://www.apple.com.cn/homepod/
+- class_name: 闲置硬件
+  description: 用来组装电脑的硬件设备，如有需要可以联系我
+  equipment_list:
+    - name: Intel i5-12490F
+      specification: 12代酷睿
+      description: 12代酷睿，性能强劲，功耗低
+      image: https://p.wzsco.top/8bb735084ac25f9ba280a6088e98b7a2.png/cover
+      link: https://www.intel.cn/content/www/cn/zh/products/sku/134588/intel-core-i512490f-processor-20m-cache-up-to-4-60-ghz/specifications.html
+    - name: Biostar B660GTN
+      specification: B660
+      description: B660主板，性能强劲，功耗低，算得上是小钢炮
+      image: https://p.wzsco.top/edc4ea8bb87d979d3d82e68bb29c6d4c.png/cover
+    - name: 蓝宝石 AMD Radeon™ RX 6600
+      specification: 8GB GDDR6
+      description: 8GB GDDR6显存，性能强劲，功耗低
+      image: https://p.wzsco.top/c0853af5d0fc33ff99974bf0b7e51728.png/cover
+      link: https://www.sapphiretech.com/zh-cn/consumer/pulse-radeon-rx-6600-8g-gddr6_c
+    - name: KingBank 银爵 DDR4 3600
+      specification: 32GB x 2
+      description: 性能强劲，首批出厂，CJR颗粒
+      image: https://p.wzsco.top/f075048657b822812874a9cb0d5809b6.png/cover
+    - name: Predator GM7000
+      specification: 1TB
+      description: 读写速度快，性能强劲，发热适中，1G缓存，适合大文件传输，不适合笔记本
+      image: https://p.wzsco.top/eafc300d59d72e036bc6b4993f6aa05a.png/cover
+    - name: Crucial P3 Plus
+      specification: 1TB
+      description: 读写速度快，性能强劲，发热低，无缓存，适合笔记本
+      image: https://p.wzsco.top/e05816694522f85d77ab4ea13d249b5f.png/cover
