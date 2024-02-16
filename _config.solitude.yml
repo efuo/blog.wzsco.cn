@@ -141,7 +141,7 @@ hometop:
   recommendList:
     sup: 置顶 # 左上角显示文字
     title: Solitude主题文档 # 左下角大字
-    url: https://docs.wzsco.cn/ # 点击跳转链接
+    url: https://solitude.wzsco.cn/posts/a0e4c699.html # 点击跳转链接
     img: https://p.wzsco.top//d05332998b3404477cbc4e256ec80d79.png/cover # 显示背景
     color: '#006a73' # 背景颜色
 
