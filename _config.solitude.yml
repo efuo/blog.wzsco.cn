@@ -213,9 +213,9 @@ aside:
   siteinfo:
     postcount: true # 文章数
     wordcount: true # 总字数
-    pv: false # 访问量
+    pv: true # 访问量
     uv: false # 访客数
-    updatetime: false # 最后更新日期
+    updatetime: true # 最后更新日期
     runtimeenable: true # 建站时间
     runtime: '2023-04-20 00:00:00' # 格式：yyyy-MM-dd hh-mm-ss
 
