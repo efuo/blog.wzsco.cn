@@ -23,10 +23,12 @@ date: 2024-02-18 17:56:56
     height: 40px;
     margin-bottom: 10px;
     padding: 5px;
-    border: 1px solid #ccc;
+    border: var(--style-border-always);
     border-radius: 5px;
     font-size: 16px;
     margin-right: 10px;
+    background-color: var(--sco-card-bg);
+    color: var(--sco-fontcolor);
 }
 
 .tijiaoform input[type="button"] {
@@ -146,6 +148,10 @@ date: 2024-02-18 17:56:56
     height: 1563px;
     transform: scale(0.308);
     transform-origin: top left;
+}
+
+#universe {
+    display: none;
 }
 
 .hide-title {
