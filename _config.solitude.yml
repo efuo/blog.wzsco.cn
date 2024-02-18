@@ -29,6 +29,10 @@ nav:
         ScoGPT:
           icon: https://p.wzsco.top//0ba4e935d8dbf28a464d4843c9ea0680.png/cover.mini
           url: https://github.com/wleelw/Post-Summary-AI
+      内置工具:
+        网站缩略图:
+          icon: https://p.wzsco.top/3a239fc09f16a239d8367ec748dc2b25.png/cover.mini
+          url: /thumbnail/
 
   menu:
     文库:
