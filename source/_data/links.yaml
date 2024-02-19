@@ -52,6 +52,17 @@ links:
         tag: 猛壹
         color: speed
         topimg: https://p.wzsco.top//31ac16f0efa91e5c39ba63b4cd1a3614.jpeg
+  - class_name: 订阅
+    descr: 订阅博主的RSS
+    type: item
+    suffix: /cover.mini
+    link_list:
+      - name: 阮一峰
+        link: https://www.ruanyifeng.com/blog/
+        avatar: https://p.wzsco.top/d3d9c2fbe15643174a12578cb9629791.png
+        descr: 这里记录每周值得分享的科技内容。
+        tag: 荐
+        color: vip
   - class_name: 技术
     descr: 技术知识为主的博客
     type: item
