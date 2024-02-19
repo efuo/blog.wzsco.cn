@@ -137,6 +137,10 @@ links:
         link: https://blog.hulebaji.me/
         avatar: https://p.wzsco.top//6b4e7ca3fc43148bde634540fc7f64b2.png
         descr: 研墨成浆，提笔思量
+      - name: Pzai
+        link: https://blog.pzai.cloud/
+        avatar: https://p.wzsco.top/8fc32ba7dab9661c932e80466a9d97c2.png
+        descr: 从入门到放弃
   - class_name: 生活
     descr: 这年头，谁还没个生活呢
     type: item
