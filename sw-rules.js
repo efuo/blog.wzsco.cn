@@ -121,4 +121,5 @@ module.exports.ejectValues = (hexo, rules) => {
 };
 
 module.exports.skipRequest = request => request.url.startsWith("https://i0.hdslb.com") ||
-    request.url.startsWith('https://meting.qjqq.cn');
+    request.url.startsWith('https://meting.qjqq.cn') ||
+    request.url.startsWith('https://api.i-meto.com');

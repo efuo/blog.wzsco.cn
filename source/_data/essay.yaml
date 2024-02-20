@@ -1,4 +1,12 @@
 essay_list:
+  - content: 值得一看的电影。
+    image:
+      - https://p.wzsco.top/a6e1e85a0c293ffe2ce8e33e38f52788.png/blogimg
+  - content: 程序员恐怖故事：你重构了整个系统准备开始初次debug，结果一条报错都没有
+    date: 2024-02-19 14:12
+    aplayer:
+      server: netease
+      id: 1401412179
   - content: 新做了一个快速生成网站缩略图的工具，欢迎使用！
     date: 2024-02-18 14:06
     image:

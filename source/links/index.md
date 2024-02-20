@@ -127,3 +127,11 @@ a(href='https://blog.wzsco.cn/' rel="external nofollow") 王卓Sco - 宁静致�
 3. 描述：`宁静致远，热爱生活。`
 4. 头像：`https://bu.dusays.com/2023/12/19/658179febbfb5.png`
 5. 订阅信息：`/atom.xml`
+
+请 **勾选** 你符合的条件：
+
+<div class="checkbox">
+
+- [] 我的网站是一个正规的个人博客网站
+
+</div>
