@@ -130,8 +130,37 @@ a(href='https://blog.wzsco.cn/' rel="external nofollow") 王卓Sco - 宁静致�
 
 请 **勾选** 你符合的条件：
 
-<div class="checkbox">
-
-- [] 我的网站是一个正规的个人博客网站
-
+<div id="friends_checkbox">
+<p>
+  <label><input type="checkbox" onclick="checkForm()"> 我已添加 <b>王卓Sco</b> 博客的友情链接</label>
+</p>
+<p>
+  <label><input type="checkbox" onclick="checkForm()"> 我的链接主体为 <b>个人</b>，网站类型为<b>博客</b></label>
+</p>
+<p>
+  <label><input type="checkbox" onclick="checkForm()"> 我的网站现在可以在中国大陆区域正常访问</label>
+</p>
+<p>
+  <label><input type="checkbox" onclick="checkForm()"> 网站内容符合中国大陆法律法规</label>
+</p>
 </div>
+
+<script>
+function checkForm() {
+    let comment = document.querySelector('.wl-comment');
+    if(comment===null) return;
+    let checkboxes = document.querySelectorAll('#friends_checkbox input[type="checkbox"]');
+    let content = document.querySelector('.wl-editor');
+    let allChecked = Array.from(checkboxes).every(checkbox => checkbox.checked);
+    if (allChecked) {
+        comment.style.display = 'block';
+        content.value = "```yaml\n- name: 你的昵称\n  link: 你的网站地址\n  avatar: 你的头像地址\n  descr: 你的网站描述\n  tag: 你的网站标签\n```";
+        content.focus();
+    } else {
+        comment.style.display = 'none';
+        content.value = '';
+    }
+}
+window.onload = checkForm;
+document.addEventListener('pjax:complete', checkForm);
+</script>

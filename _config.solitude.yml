@@ -446,13 +446,17 @@ post_ai:
 
 comment:
   enable: true
-  type: twikoo # waline, twikoo
-  commentBarrage: false # 热评开关
+  type: waline # waline, twikoo
+  commentBarrage: true # 热评开关
   newComment: true # 最新评论开关
   twikoo:
     envId: https://twikoo.wzsco.cn/.netlify/functions/twikoo
     lang: 'zh-CN'
     accessToken:  # accessToken
+  waline: # https://waline.js.org/
+    envId: https://waline-netlify.netlify.app/.netlify/functions/comment  # url: https://waline.wzsco.top
+    pageview: false # 是否开启页面访问量统计 / Whether to enable page access statistics
+    option: # waline配置项 / waline configuration item
 
 extends:
   head: # 在head中插入
@@ -513,7 +517,7 @@ pwa:
 says:
   enable: true
   home_mini: true
-  style: 2
+  style: 1
   strip: 30
 
 opengraph:

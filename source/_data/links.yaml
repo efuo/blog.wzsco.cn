@@ -154,6 +154,10 @@ links:
         link: https://blog.pzai.cloud/
         avatar: https://p.wzsco.top/8fc32ba7dab9661c932e80466a9d97c2.png
         descr: 从入门到放弃
+      - name: W1ndys
+        link: https://blog.w1ndys.top/
+        avatar: https://p.wzsco.top/2777d4dd66cca181309dd956e9e2e315.png
+        descr: 欲戴皇冠，必承其重
   - class_name: 生活
     descr: 这年头，谁还没个生活呢
     type: item

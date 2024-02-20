@@ -1,4 +1,12 @@
 essay_list:
+  - content: 不更新不代表不维护，会再见的！
+    date: 2024-02-20 22:46
+    aplayer:
+      server: netease
+      id: 1935996862
+  - content: 推荐一个第三方的 1Panel 商店，众所周知，1Panel 的官方商店并不是很丰富，这个商店可以让你下载到更多的插件和主题。
+    date: 2024-02-20 14:06
+    link: https://github.com/okxlin/appstore
   - content: 值得一看的电影。
     image:
       - https://p.wzsco.top/a6e1e85a0c293ffe2ce8e33e38f52788.png/blogimg
