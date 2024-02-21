@@ -6,80 +6,34 @@ site:
   icon: https://p.wzsco.top/c2013363b90760e09472680c64b0c516.png/cover.240w # 网页icon
 
 nav:
-  left:
-    enable: true
-    menu:
-      我的:
-        主页:
-          icon: https://p.wzsco.top/97b503a253f6611157d0fbab92b3847e.png/cover.mini
-          url: https://wzsco.top/
-        博客:
-          icon: https://p.wzsco.top/97b503a253f6611157d0fbab92b3847e.png/cover.mini
-          url: /
-      项目:
-        Solitude:
-          icon: https://p.wzsco.top/fee3ff021aa27a3f68b5e7c8a8e05282.webp/cover.mini
-          url: https://github.com/wleelw/Hexo-Theme-solitude
-        Liu:
-          icon: https://p.wzsco.top//75454e1e59d8fa347e15a5aaaceaf42b.png/cover.mini
-          url: https://github.com/wleelw/hexo-theme-liu
-        img2color:
-          icon: https://p.wzsco.top//586f2a864052a2f5b2b7c3c37e6453e6.png/cover.mini
-          url: https://github.com/wleelw/img2color
-        ScoGPT:
-          icon: https://p.wzsco.top//0ba4e935d8dbf28a464d4843c9ea0680.png/cover.mini
-          url: https://github.com/wleelw/Post-Summary-AI
-      内置工具:
-        网站缩略图:
-          icon: https://p.wzsco.top/3a239fc09f16a239d8367ec748dc2b25.png/cover.mini
-          url: /thumbnail/
+  group:
+    我的:
+      主页: https://wzsco.top/ || https://p.wzsco.top/97b503a253f6611157d0fbab92b3847e.png/cover.mini
+      博客: / || https://p.wzsco.top/97b503a253f6611157d0fbab92b3847e.png/cover.mini
+    项目:
+      Solitude: https://github.com/wleelw/Hexo-Theme-solitude || https://p.wzsco.top/fee3ff021aa27a3f68b5e7c8a8e05282.webp/cover.mini
+      Liu: https://github.com/wleelw/hexo-theme-liu || https://p.wzsco.top//75454e1e59d8fa347e15a5aaaceaf42b.png/cover.mini
+      img2color: https://github.com/wleelw/img2color || https://p.wzsco.top//586f2a864052a2f5b2b7c3c37e6453e6.png/cover.mini
+      ScoGPT: https://github.com/wleelw/Post-Summary-AI || https://p.wzsco.top//0ba4e935d8dbf28a464d4843c9ea0680.png/cover.mini
+    内置工具:
+      网站缩略图: /thumbnail/ || https://p.wzsco.top/3a239fc09f16a239d8367ec748dc2b25.png/cover.mini
 
   menu:
     文库:
-      url: false
-      child:
-        文章列表:
-          url: /archives/
-          icon: sco-folder-fill
-        全部分类:
-          url: /categories/
-          icon: sco-checkbox-multiple-blank-fill
-        全部标签:
-          url: /tags/
-          icon: sco-price-tag-fill
+      文章列表: /archives/ || sco-folder-fill
+      全部分类: /categories/ || sco-checkbox-multiple-blank-fill
+      全部标签: /tags/ || sco-price-tag-fill
     友链:
-      url: false
-      child:
-        友链鱼塘:
-          url: /moments/
-          icon: sco-wifi-fill
-        友情链接:
-          url: /links/
-          icon: sco-group-fill
-        宝藏博主:
-          url: javascript:travelling()
-          icon: sco-gift-fill
+      友链鱼塘: /moments/ || sco-wifi-fill
+      友情链接: /links/ || sco-group-fill
+      宝藏博主: javascript:travelling() || sco-gift-fill
     我的:
-      url: false
-      child:
-        相册集:
-          url: /gallery/
-          icon: sco-image-fill
-        装备:
-          url: /equipment/
-          icon: sco-laptop-line
-        工具箱:
-          url: /tlink/
-          icon: sco-tools-fill
-        音乐馆:
-          url: /music/
-          icon: sco-disc-fill
+      相册集: /gallery/ || sco-image-fill
+      装备: /equipment/ || sco-laptop-line
+      工具箱: /tlink/ || sco-tools-fill
+      音乐馆: /music/ || sco-disc-fill
     关于:
-      url: false
-      child:
-        关于本站:
-          url: /about/
-          icon: sco-contacts-fill
+      关于本站: /about/ || sco-contacts-fill
 
   right:
     random: true        # 随机文章跳转
@@ -129,18 +83,9 @@ hometop:
         color: '#ffffff'
 
   group:
-    - name: 热门
-      url: /tags/热门/
-      icon: sco-fire-fill
-      color: "linear-gradient(to right,#f65,#ffbf37)"
-    - name: 教程
-      url: /tags/教程/
-      icon: sco-book-mark-fill
-      color: "linear-gradient(to right,#358bff,#15c6ff)"
-    - name: 精选
-      url: /tags/精选/
-      icon: sco-star-smile-fill
-      color: "linear-gradient(to right,#18e7ae,#1eebeb)"
+    热门: /tags/热门/ || sco-fire-fill || linear-gradient(to right,#f65,#ffbf37)
+    教程: /tags/教程/ || sco-book-mark-fill || linear-gradient(to right,#358bff,#15c6ff)
+    精选: /tags/精选/ || sco-star-smile-fill || linear-gradient(to right,#18e7ae,#1eebeb)
 
   recommendList:
     sup: 置顶 # 左上角显示文字
@@ -183,12 +128,8 @@ aside:
       - 💢 壮汉人狠话不多
       - 🎮 电竞游戏爱好者
     information:
-      Github:
-        icon: sco-github-line
-        url: https://github.com/wleelw
-      Bilibili:
-        icon: sco-bilibili-line
-        url: https://space.bilibili.com/1329819902
+      Github: https://github.com/wleelw || sco-github-line
+      Bilibili: https://space.bilibili.com/1329819902 || sco-bilibili-line
 
   flip:
     favicon: "https://p.wzsco.top/10c0aa0d7da5c06728bbb59376755184.png/cover" # 右下角头像
@@ -226,19 +167,11 @@ aside:
 footer:
   information:
     left: # 左侧显示图标
-      Github:
-        icon: sco-github-line
-        url: https://github.com/wleelw
-      Mail:
-        icon: sco-mail-line
-        url: mailto:wleelw@wzsco.top
+      Github: https://github.com/wleelw || sco-github-line
+      Mail: mailto:wleelw@wzsco.top || sco-mail-line
     right: # 右侧显示图标
-      Bilibili:
-        icon: sco-bilibili-line
-        url: https://space.bilibili.com/1329819902
-      抖音:
-        icon: sco-douyin-fill
-        url: https://v.douyin.com/iJsLc8jt/
+      Bilibili: https://space.bilibili.com/1329819902 || sco-bilibili-line
+      抖音: https://v.douyin.com/iJsLc8jt/ || sco-douyin-fill
   group: # 从左至右
     导航:
       归档: /archives/
