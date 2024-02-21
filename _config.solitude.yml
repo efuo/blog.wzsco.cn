@@ -93,15 +93,15 @@ nav:
         id: travellings_button
       - name: 虫洞 - 友链接力
         url: https://foreverblog.cn/go.html
-        icon : sco-forever-solid
+        icon: sco-forever-solid
         onclick:
         id: travellings_button
 
 hometop:
   banner:
     enable: true # 是否打开顶部banner
-    title: 宁静致远<br>热爱生活 # 左上角显示文字
-    url: WWW.WZSCO.CN # title下方小字
+    title: 分享技术<br>与科技生活 # 左上角显示文字
+    url: 产品、交互、设计、开发 # title下方小字
     icon:
       HTML:
         img: https://p.wzsco.top/ef972289c5bf712eefe72a2f143f095b.png/cover
@@ -128,19 +128,19 @@ hometop:
         img: https://p.wzsco.top/658d37bcce45e8a430d05f2de4234dc2.png/cover
         color: '#ffffff'
 
-  categoryGroup:
-    G1:
-      name: 必看精选
-      icon: sco-star-smile-fill
-      url: /tags/精选/
-    G2:
-      name: 热门文章
-      icon: sco-fire-fill
+  group:
+    - name: 热门
       url: /tags/热门/
-    G3:
-      name: 实用教程
-      icon: sco-book-mark-fill
+      icon: sco-fire-fill
+      color: "linear-gradient(to right,#f65,#ffbf37)"
+    - name: 教程
       url: /tags/教程/
+      icon: sco-book-mark-fill
+      color: "linear-gradient(to right,#358bff,#15c6ff)"
+    - name: 精选
+      url: /tags/精选/
+      icon: sco-star-smile-fill
+      color: "linear-gradient(to right,#18e7ae,#1eebeb)"
 
   recommendList:
     sup: 置顶 # 左上角显示文字
@@ -515,8 +515,8 @@ pwa:
   favicon_16_16: https://p.wzsco.top/pwa/16.png/cover
 
 says:
-  enable: true
-  home_mini: true
+  enable: false
+  home_mini: false
   style: 1
   strip: 30
 
@@ -539,6 +539,6 @@ CDN:
   third_party: custom
   version: true
   custom_format: https://cdn.staticfile.org/${cdnjs_name}/${version}/${min_cdnjs_file}
-#  custom_format: https://cdn.bootcdn.net/ajax/libs/${cdnjs_name}/${version}/${min_cdnjs_file}
+  #  custom_format: https://cdn.bootcdn.net/ajax/libs/${cdnjs_name}/${version}/${min_cdnjs_file}
   option:
     scoicon_css: https://cdn2.codesign.qq.com/icons/7pOrz0WXB5ZWJPX/latest/iconfont.css

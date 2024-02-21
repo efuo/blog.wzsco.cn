@@ -22,21 +22,28 @@ links:
         avatar: https://p.wzsco.top/9178f49dba1ccf9d86a29fc2c9ad13b7.png
         descr: 宁静致远，热爱生活。
         topimg: https://p.wzsco.top/756bea8eff580c7b84fb88b76295ee39.webp
-        tag: 博主
-        color: vip
+        tag: 生活
+        color: speed
       - name: 张洪Heo
         link: https://blog.zhheo.com/
         avatar: https://p.wzsco.top/6bbf7ab77b78aa326f2fb1291da58df3.png
         descr: 分享设计与科技生活
         topimg: https://p.wzsco.top/8bee878e9d1a496e795839e93e6ef6d5.webp
-        tag: 主题设计
-        color: vip
+        tag: 生活
+        color: speed
       - name: Adil
         link: https://blog.adil.com.cn/
         avatar: https://p.wzsco.top/b7d88cedd02460598ed9fa65888b6b76.webp
         descr: BW/HANA顾问,BI工程师,数据分析师,数据科学家。
         topimg: https://p.wzsco.top/05306dfe55a1b6ec66d4eb434ba3363f.webp
-        tag: 主题开发
+        tag: 技术
+        color: vip
+      - name: Rootlex
+        link: https://blog.nalex.top/
+        avatar: https://p.wzsco.top/8fdd0fa76b8aebe1cdf875066ac8ad13.webp
+        topimg: https://p.wzsco.top/8fdd0fa76b8aebe1cdf875066ac8ad13.webp
+        descr: 寒蝉黎明之时，便是重生之日
+        tag: 技术
         color: vip
       - name: 亦小封
         link: https://blog.meuicat.cn/
@@ -52,6 +59,19 @@ links:
         tag: 猛壹
         color: speed
         topimg: https://p.wzsco.top//31ac16f0efa91e5c39ba63b4cd1a3614.jpeg
+  - class_name: 好朋友
+    descr: 志同道合的朋友们
+    type: card
+    suffix: /cover.mini
+    topimg_suffix: /cover.siteshot
+    link_list:
+      - name: MiaoMint
+        link: https://0u0.ren/
+        avatar: https://p.wzsco.top/30a7144c3a500160231c05f860f59632.png
+        tag: 小喵
+        color: vip
+        descr: Miru 开源项目开发者，好朋友。
+        topimg: https://p.wzsco.top/30a7144c3a500160231c05f860f59632.png
   - class_name: 订阅
     descr: 订阅博主的RSS
     type: item
@@ -59,7 +79,7 @@ links:
     link_list:
       - name: 阮一峰
         link: https://www.ruanyifeng.com/blog/
-        avatar: https://p.wzsco.top/d3d9c2fbe15643174a12578cb9629791.png
+        avatar: https://p.wzsco.top/5b6fccfb3675271aab36865d4bd3b175.png
         descr: 这里记录每周值得分享的科技内容。
         tag: 荐
         color: vip
