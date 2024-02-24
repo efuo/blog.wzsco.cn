@@ -389,8 +389,15 @@ comment:
   waline: # https://waline.js.org/
     envId: https://waline-netlify.netlify.app/.netlify/functions/comment  # url: https://waline.wzsco.top
     pageview: false # 是否开启页面访问量统计 / Whether to enable page access statistics
+    lsky:
+      API_TOKEN: Bearer 220|a97tGcEXyitNl4IqU7FrJO84DYqpHnaKHhhIVKdD
+      API_URL: https://wmimg.com/api/v1/upload
     option: # waline配置项 / waline configuration item
-
+      emoji:
+        - https://cdn.cbd.int/@waline/emojis@1.2.0/bilibili
+        - https://cdn.cbd.int/@waline/emojis@1.2.0/bmoji
+        - https://cdn.cbd.int/@waline/emojis@1.2.0/alus
+      login: disable
 extends:
   head: # 在head中插入
     - <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
