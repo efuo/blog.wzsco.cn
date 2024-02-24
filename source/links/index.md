@@ -155,6 +155,7 @@ function checkForm() {
     if (allChecked) {
         comment.style.display = 'block';
         content.value = "```yaml\n- name: 你的昵称\n  link: 你的网站地址\n  avatar: 你的头像地址\n  descr: 你的网站描述\n  tag: 你的网站标签\n```";
+        content.style.height = '205px';
         content.focus();
     } else {
         comment.style.display = 'none';

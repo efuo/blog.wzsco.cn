@@ -59,6 +59,13 @@ links:
         tag: 猛壹
         color: speed
         topimg: https://p.wzsco.top//31ac16f0efa91e5c39ba63b4cd1a3614.jpeg
+      - name: 青桔气球
+        link: https://blog.qjqq.cn/
+        avatar: https://p.wzsco.top/ac4c2c3cca738c85496659cb35959965.webp!avatar
+        descr: 分享网络安全与科技生活
+        topimg: https://p.wzsco.top/ac4c2c3cca738c85496659cb35959965.webp!avatar
+        tag: 青桔
+        color: speed
   - class_name: 好朋友
     descr: 志同道合的朋友们
     type: card
@@ -201,6 +208,12 @@ links:
         descr: Nas、服务器、记录学习
         tag: 荐
         color: vip
+      - name: 青桔气球
+        link: https://blog.qjqq.cn/
+        avatar: https://p.wzsco.top/ac4c2c3cca738c85496659cb35959965.webp!avatar
+        descr: 分享网络安全与科技生活
+        tag: 青桔
+        color: speed
       - name: CyberWEI
         link: https://www.cyberwei.com/
         avatar: https://p.wzsco.top/295227508b08ca7c036d628d80562b6d.webp
