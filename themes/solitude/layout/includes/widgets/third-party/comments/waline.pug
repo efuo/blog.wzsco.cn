@@ -1,5 +1,4 @@
 - const { envId, option } = theme.comment.waline
-- const { API_TOKEN, API_URL } = theme.comment.waline.lsky
 
 script.
     async function initComment() {
@@ -11,22 +10,6 @@ script.
             path: window.location.pathname,
             search: false,
             comment: #{theme.post.meta.comment && is_post()},
-            imageUploader: (file) => {
-                let formData = new FormData();
-                let headers = new Headers();
-
-                formData.append('file', file);
-                headers.append('Authorization', '!{API_TOKEN}');
-                headers.append('Accept', 'application/json');
-
-                return fetch('!{API_URL}', {
-                    method: 'POST',
-                    headers: headers,
-                    body: formData,
-                })
-                    .then((resp) => resp.json())
-                    .then((resp) => resp.data.links.url);
-            },
         }, !{JSON.stringify(option)}))
 
         GLOBAL_CONFIG.lightbox && utils.lightbox(document.querySelectorAll('#comment .wl-content img:not(.wl-emoji)'))
