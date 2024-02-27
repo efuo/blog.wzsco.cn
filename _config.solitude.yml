@@ -55,7 +55,7 @@ hometop:
   banner:
     enable: true # 是否打开顶部banner
     title: 分享技术<br>与科技生活 # 左上角显示文字
-    url: 产品、交互、设计、开发 # title下方小字
+    url: 抬头有清晰的眼光，低头有坚定的脚步。 # title下方小字
     icon:
       HTML:
         img: https://p.wzsco.top/ef972289c5bf712eefe72a2f143f095b.png/cover
