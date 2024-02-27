@@ -10,7 +10,7 @@
     "kk": "hexo clean && hexo g && hexo swpp && gulp"
   },
   "hexo": {
-    "version": "7.1.1"
+    "version": "7.0.0"
   },
   "dependencies": {
     "@renbaoshuo/markdown-it-katex": "^2.0.2",
