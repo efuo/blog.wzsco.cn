@@ -270,6 +270,10 @@ links:
         link: https://vercel.lisui.top/
         avatar: https://p.wzsco.top/3cacfb7ae629778c67432773badf3f88.webp
         descr: 生而无畏，站至终章。
+      - name: 迟博勋
+        link: https://www.chiboxun.com/
+        avatar: https://p.wzsco.top/14e36c4787046ec4664281f22809821c.png
+        descr: 随笔
 
   - class_name: 失联
     descr: 失联的博客（404、无法访问）

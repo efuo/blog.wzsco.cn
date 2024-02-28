@@ -133,8 +133,9 @@ aside:
 
   flip:
     favicon: "https://p.wzsco.top/10c0aa0d7da5c06728bbb59376755184.png/cover" # 右下角头像
-    face: "https://p.wzsco.top/d420ce76c0365e86d052f9d09004f26e.webp/cover" # 正面
-    backface: "https://p.wzsco.top/070573da14a225f10a38dc21aea3cc21.webp/cover" # 鼠标悬停翻转图片
+    face: "https://p.wzsco.top/dec71c7740323fb36cd03f0020d7e066.png/cover" # 正面
+    backface: "https://p.wzsco.top/95cb67e781f5fa104ef2dc977b5278d0.png/cover" # 鼠标悬停翻转图片
+    backcolor: "var(--sco-blue)"
 
   toc:
     post: true # 在文章页显示
