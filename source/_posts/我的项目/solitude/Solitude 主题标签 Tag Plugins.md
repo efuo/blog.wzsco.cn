@@ -1,15 +1,16 @@
 ---
 title: Solitude主题使用：Tag Plugins
-abbrlink: e19cb4b7
-date: 2023-11-6 15:37
+abbrlink: 22eb41de
+date: '2023-11-6 15:37'
 recommend: true
 categories:
-  - [ 我的项目,Solitude ]
+  - - 我的项目
+    - Solitude
 tags:
-   - [ 精选 ]
-   - [ Hexo ]
-   - [ 网页前端 ]
-cover: https://p.wzsco.top/f868bd433b53d5eea0c585adc1799ab9.png/cover
+  - - 精选
+  - - Hexo
+  - - 网页前端
+cover: 'https://p.wzsco.top/f868bd433b53d5eea0c585adc1799ab9.png/cover'
 ---
 
 {% note simple primary %}

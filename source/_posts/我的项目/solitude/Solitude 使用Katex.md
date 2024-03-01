@@ -2,15 +2,16 @@
 title: Solitude主题使用：数学公式
 recommend: true
 categories:
-  - [ 我的项目,Solitude ]
+  - - 我的项目
+    - Solitude
 tags:
-   - [ 精选 ]
-   - [ Hexo ]
-   - [ 网页前端 ]
-abbrlink: b1d1f75b
+  - - 精选
+  - - Hexo
+  - - 网页前端
+abbrlink: 83fe067a
 katex: true
+cover: 'https://p.wzsco.top//3056a4f7b6012443665bf3eb0861b5d1.png/cover'
 date: 2023-12-07 00:00:00
-cover: https://p.wzsco.top//3056a4f7b6012443665bf3eb0861b5d1.png/cover
 ---
 
 > 本文介绍了如何在Solitude主题下使用数学公式。

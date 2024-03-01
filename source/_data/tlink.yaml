@@ -2,11 +2,38 @@ links:
   - class_name: 技能
     descr: 我会的技能点
     link_list:
-      - name: C#
-        avatar: https://p.wzsco.top//da1f3ac1c0d2fb97df35e16b76e70561.png/cover.mini
-        descr: 一个简单的、现代的、通用的、面向对象的编程语言。
-        link: /
+      - name: Docker
+        avatar: https://p.wzsco.top/0111892830576e5ceaa64e1025599e04.png/cover.mini
+        descr: Docker 是一个开源的应用容器引擎，基于 Go 语言 并遵从 Apache2.0 协议开源。
+        link: https://docker.io
+      - name: Git
+        avatar: https://p.wzsco.top/dc0660e06630569357579d27ad8f47aa.png/cover.mini
+        descr: Git 是一个开源的分布式版本控制系统，用于敏捷高效地处理任何或小或大的项目。
+        link: https://git-scm.com
+      - name: Azure
+        avatar: https://p.wzsco.top/41559e238a21a5606980236a73b24efb.png/cover.mini
+        descr: Microsoft Azure 是一个灵活的企业级云平台，用于构建、测试、部署和管理应用程序和服务。
+        link: https://azure.microsoft.com
       - name: .NET
-        avatar: https://npm.elemecdn.com/wleelw-blog-abs@1.0.0/img/icon/dotnet-logo.svg
-        descr: 免费、开源，快速和跨平台，新式和高效。
-        link: /
+        avatar: https://p.wzsco.top/5b728fa978b326983a776ed6d7c67e3a.png/cover.mini
+        descr: .NET 是一个面向对象的编程平台，用于构建基于 Windows 的应用程序。
+        link: https://dotnet.microsoft.com
+      - name: Android
+        avatar: https://p.wzsco.top/895c0e853977103613b53cd8e16562fc.png/cover.mini
+        descr: Android 开发者
+        link: https://developer.android.com/jetpack/compose
+      - name: Flutter
+        avatar: https://p.wzsco.top/4bd5cf19a3c5e228a045afcc9de0ef05.png/cover.mini
+        descr: Flutter 开发者
+        link: https://flutter.dev
+      - name: Redis
+        avatar: https://p.wzsco.top/10bb5d1235ab6d6fe029b05eeb569eb7.png/cover.mini
+        descr: Redis 是一个开源的使用 ANSI C 语言编写、遵守 BSD 协议、支持网络、可基于内存亦可持久化的日志型、Key-Value 数据库，并提供多种语言的 API。
+        link: https://redis.io
+  - class_name: 工具
+    descr: 我会的开发工具
+    link_list:
+      - name: JetBrains
+        avatar: https://p.wzsco.top/98280e1f6d7ded81afcd2872c9c5b25f.png/cover.mini
+        descr: JetBrains 出品的一系列 IDE，包括 IntelliJ IDEA、PyCharm、WebStorm、PhpStorm、Rider 等。
+        link: https://www.jetbrains.com/

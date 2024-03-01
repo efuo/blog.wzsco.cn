@@ -1,14 +1,15 @@
 ---
 title: Cloudflare 重定向的次数过多的解决方法
 categories:
-  - [ 经验分享,运维 ]
+  - - 经验分享
+    - 运维
 tags:
-  - [ 运维 ]
-  - [ CloudFlare ]
-abbrlink: b62940d6
-date: 2023-07-01 00:00:00
+  - - 运维
+  - - CloudFlare
+abbrlink: a0bfb8f0
 recommend: true
-cover: https://p.wzsco.top/e32d80d346462627a8b0630016b74c7b.png/cover
+cover: 'https://p.wzsco.top/e32d80d346462627a8b0630016b74c7b.png/cover'
+date: 2023-07-01 00:00:00
 ---
 ## Nginx 强制跳转 HTTPS 配置无误且使用了 Cloudflare 后出现 ERR_TOO_MANY_REDIRECTS 301 将您重定向的次数过多的解决方法
 

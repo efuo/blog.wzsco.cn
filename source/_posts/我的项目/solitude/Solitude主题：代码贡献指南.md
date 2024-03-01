@@ -1,14 +1,15 @@
 ---
 title: Solitude主题：代码贡献指南
 abbrlink: 4f0b08ba
-date: 2024-02-08 00:00:00
 recommend: true
 tags:
-   - [ 精选 ]
+  - - 精选
 categories:
-  - [ 我的项目,Solitude ]
-  - [主题公告]
-cover: https://p.wzsco.top/73de87919baa07f4aa253dfeb288a284.png/cover
+  - - 我的项目
+    - Solitude
+  - - 主题公告
+cover: 'https://p.wzsco.top/73de87919baa07f4aa253dfeb288a284.png/cover'
+date: 2024-02-08 00:00:00
 ---
 
 ## 代码贡献指南

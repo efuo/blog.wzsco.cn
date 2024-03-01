@@ -2,13 +2,14 @@
 title: Solitude主题使用：那年今日
 recommend: true
 tags:
-  - [ 精选 ]
-  - [ Hexo ]
-  - [ 网页前端 ]
+  - - 精选
+  - - Hexo
+  - - 网页前端
 categories:
-  - [ 我的项目,Solitude ]
+  - - 我的项目
+    - Solitude
 cover: 'https://p.wzsco.top//deabfd341468d017ebbd57414a3aacce.png/cover'
-abbrlink: 22bd8b7c
+abbrlink: 4d176fd8
 date: 2024-01-08 00:00:00
 ---
 

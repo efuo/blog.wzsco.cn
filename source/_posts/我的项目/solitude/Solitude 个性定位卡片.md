@@ -2,13 +2,14 @@
 title: Solitude主题使用：个性定位
 recommend: true
 tags:
-  - [ 精选 ]
-  - [ Hexo ]
-  - [ 网页前端 ]
+  - - 精选
+  - - Hexo
+  - - 网页前端
 categories:
-  - [ 我的项目,Solitude ]
-cover: https://p.wzsco.top//20006e3449b036c53614ec17d57bcb94.png/cover
-abbrlink: c33ba1e3
+  - - 我的项目
+    - Solitude
+cover: 'https://p.wzsco.top//20006e3449b036c53614ec17d57bcb94.png/cover'
+abbrlink: 7a4e88d0
 date: 2024-01-14 00:00:00
 ---
 

@@ -2,12 +2,12 @@
 title: Solitude主题使用：部署友链朋友圈
 date: '2024-01-31 08:35'
 tags:
-  - [ Hexo ]
-  - [ 网页前端 ]
+  - - Hexo
+  - - 网页前端
 categories:
-  - [ 经验分享 ]
-abbrlink: eb9bf33c
-cover: https://p.wzsco.top//90de851b17633cbcb2b9a272e38696c5.png/cover
+  - - 经验分享
+abbrlink: 15a08356
+cover: 'https://p.wzsco.top//90de851b17633cbcb2b9a272e38696c5.png/cover'
 ---
 
 ## 后端部署

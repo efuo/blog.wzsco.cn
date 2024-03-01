@@ -1,15 +1,15 @@
 ---
 title: Winform：Graphic进行绘制
 abbrlink: 101d1beb
-date: 2024-02-05 00:00:00
 categories:
-  - [经验分享]
-  - [桌面开发]
+  - - 经验分享
+  - - 桌面开发
 tags:
-  - [Winform]
-  - [教程]
-  - [精选]
-cover: https://p.wzsco.top/dd08624b0f13e720db403518bd46d03b.png/cover
+  - - Winform
+  - - 教程
+  - - 精选
+cover: 'https://p.wzsco.top/dd08624b0f13e720db403518bd46d03b.png/cover'
+date: 2024-02-05 00:00:00
 ---
 
 ## 前言

@@ -14,9 +14,9 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://blog.wzsco.top
+url: https://blog.wzsco.cn
 root: /
-permalink: p/:abbrlink.html
+permalink: p/:abbrlink
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -28,12 +28,12 @@ abbrlink:
   rep: hex #support dec(default) and hex
   drafts: false
   auto_category:
-    enable: false
+    enable: true
     depth:
-    over_write: false
-  auto_title: false
-  auto_date: false
-  force: false
+    over_write: true
+  auto_title: true
+  auto_date: true
+  force: true
 
 # Directory
 source_dir: source

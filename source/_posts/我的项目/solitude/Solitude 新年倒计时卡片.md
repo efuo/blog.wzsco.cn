@@ -2,13 +2,14 @@
 title: Solitude主题使用：新年倒计时
 recommend: true
 tags:
-   - [ 精选 ]
-   - [ Hexo ]
-   - [ 网页前端 ]
+  - - 精选
+  - - Hexo
+  - - 网页前端
 categories:
-  - [ 我的项目,Solitude ]
+  - - 我的项目
+    - Solitude
 cover: 'https://p.wzsco.top//353d9e06733e10a63c86e1da1ec3e8c7.png/cover'
-abbrlink: e365d454
+abbrlink: ceff6e1
 date: 2024-01-01 17:11:00
 ---
 

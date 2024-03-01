@@ -2,13 +2,14 @@
 title: Solitude主题使用：推荐插件
 recommend: true
 tags:
-   - [ 精选 ]
-   - [ Hexo ]
-   - [ 网页前端 ]
+  - - 精选
+  - - Hexo
+  - - 网页前端
 categories:
-  - [ 我的项目,Solitude ]
-abbrlink: 78307c7c
-cover: https://p.wzsco.top//fb0f3efdb9aa008410f895b3be3bfad3.png/cover
+  - - 我的项目
+    - Solitude
+abbrlink: 348c00e5
+cover: 'https://p.wzsco.top//fb0f3efdb9aa008410f895b3be3bfad3.png/cover'
 date: 2023-12-28 21:25:00
 ---
 
