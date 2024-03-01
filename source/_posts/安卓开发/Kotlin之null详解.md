@@ -2,11 +2,11 @@
 title: 安卓开发记：Kotlin null 详解
 abbrlink: 2e6f8fd4
 categories:
-  - - 经验分享
-  - - 安卓开发
+  - [经验分享]
+  - [安卓开发]
 tags:
-  - - 教程
-  - - 安卓
+  - [教程]
+  - [安卓]
 recommend: true
 cover: 'https://p.wzsco.top/7ad1d87c36e184f2e978e215619c7971.png/cover'
 date: 2023-07-02 00:00:00

@@ -9,7 +9,7 @@ categories:
   - - 我的项目
     - Solitude
 cover: 'https://p.wzsco.top//20006e3449b036c53614ec17d57bcb94.png/cover'
-abbrlink: 7a4e88d0
+abbrlink: c33ba1e3
 date: 2024-01-14 00:00:00
 ---
 

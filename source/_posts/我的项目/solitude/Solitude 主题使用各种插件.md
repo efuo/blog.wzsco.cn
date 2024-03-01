@@ -8,7 +8,7 @@ tags:
 categories:
   - - 我的项目
     - Solitude
-abbrlink: 348c00e5
+abbrlink: 78307c7c
 cover: 'https://p.wzsco.top//fb0f3efdb9aa008410f895b3be3bfad3.png/cover'
 date: 2023-12-28 21:25:00
 ---

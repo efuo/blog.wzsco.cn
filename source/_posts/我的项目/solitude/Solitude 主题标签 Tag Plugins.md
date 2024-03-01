@@ -1,6 +1,6 @@
 ---
 title: Solitude主题使用：Tag Plugins
-abbrlink: 22eb41de
+abbrlink: e19cb4b7
 date: '2023-11-6 15:37'
 recommend: true
 categories:
