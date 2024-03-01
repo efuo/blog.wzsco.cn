@@ -66,6 +66,20 @@ links:
         topimg: https://p.wzsco.top/ac4c2c3cca738c85496659cb35959965.webp!avatar
         tag: 青桔
         color: speed
+      - name: 轻笑Chuckle
+        link: https://www.qcqx.cn
+        avatar: https://p.wzsco.top/146ee2755ffe4f777778b00d41467d62.webp
+        descr: 漫天倾尘,风中轻笑
+        topimg: https://p.wzsco.top/8685962baa827c956e9cf6cde1178d2e.webp
+        tag: 轻笑
+        color: vip
+      - name: Tianli
+        descr: 自知之明是最可贵的知识！
+        avatar: https://p.wzsco.top/badf61678f164b111935a5ea377c354e.
+        link: https://tianli-blog.club/
+        tag: Tianli
+        color: vip
+        topimg: https://p.wzsco.top/badf61678f164b111935a5ea377c354e.
   - class_name: 好朋友
     descr: 志同道合的朋友们
     type: card
@@ -185,6 +199,18 @@ links:
         link: https://blog.w1ndys.top/
         avatar: https://p.wzsco.top/2777d4dd66cca181309dd956e9e2e315.png
         descr: 欲戴皇冠，必承其重
+      - name: 轻笑Chuckle
+        link: https://www.qcqx.cn
+        avatar: https://p.wzsco.top/146ee2755ffe4f777778b00d41467d62.webp
+        descr: 漫天倾尘,风中轻笑
+        tag: 轻笑
+        color: vip
+      - name: Tianli
+        descr: 自知之明是最可贵的知识！
+        avatar: https://p.wzsco.top/badf61678f164b111935a5ea377c354e.
+        link: https://tianli-blog.club/
+        tag: Tianli
+        color: vip
   - class_name: 生活
     descr: 这年头，谁还没个生活呢
     type: item
