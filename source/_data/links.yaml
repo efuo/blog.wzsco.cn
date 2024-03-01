@@ -211,6 +211,10 @@ links:
         link: https://tianli-blog.club/
         tag: Tianli
         color: vip
+      - name: PeterJXL
+        link: https://www.peterjxl.com
+        avatar: https://p.wzsco.top/b20ad4878913401de07a40708fa805c8.png
+        descr: 从01开始
   - class_name: 生活
     descr: 这年头，谁还没个生活呢
     type: item
