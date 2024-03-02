@@ -174,20 +174,26 @@ footer:
       Bilibili: https://space.bilibili.com/1329819902 || sco-bilibili-line
       抖音: https://v.douyin.com/iJsLc8jt/ || sco-douyin-fill
   group: # 从左至右
+    我的项目:
+      ScoGPT: https://github.com/wleelw/Post-Summary-AI
+      Solitude: https://github.com/wleelw/hexo-theme-solitude
+      Img2color: https://github.com/wleelw/img2color
+    生活:
+      我的装备: /equipment/
+      我的相册: /gallery/
+      我的音乐: /music/
     导航:
-      归档: /archives/
-      分类: /categories/
-      标签: /tags/
+      在线工具: /tlink/
+      友情链接: /links/
+      爱发电: https://afdian.net/a/wleelw0u0
     主题:
       文档: https://docs.wzsco.cn/
       源码: https://github.com/wleelw/Hexo-theme-solitude
       更新日志: /update/
     服务:
-      阿里云: https://aliyun.com/
-      51la统计: https://v6.51.la/
-      百度统计: https://tongji.baidu.com/
-    支持:
-      打赏记录: /about/
+      BlogFinder: https://bf.zzxworld.com/s/1180
+      十年之约: https://foreverblog.cn/blog/5401.html
+      开往友链: https://www.travellings.cn/
     协议:
       Cookies: /cookies/
       隐私政策: /privacy/
@@ -332,8 +338,8 @@ hightlight:
   copy: true # 是否开启复制按钮
   expand: true # 是否默认展开
   # 代码块样式
-  theme: mac # default: 默认 / mac
-  color: vscode # default: 默认  / vscode / solarized-dark / solarized-light / dracula / monokai
+  theme: default # default: 默认 / mac
+  color: solarized-dark # default: 默认  / vscode / solarized-dark / solarized-light / dracula / monokai
 
 loading:
   fullpage: true
