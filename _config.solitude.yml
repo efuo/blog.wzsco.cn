@@ -45,11 +45,6 @@ nav:
         icon: sco-train-line
         onclick:
         id: travellings_button
-      - name: 虫洞 - 友链接力
-        url: https://foreverblog.cn/go.html
-        icon: sco-forever-solid
-        onclick:
-        id: travellings_button
 
 hometop:
   banner:
@@ -250,7 +245,7 @@ post:
   covercolor: #文章cover取色
     enable: true # 是否开启
     mode: api #local：本地取色 / api：img2color取色
-    api: https://img2color.wzsco.top/api?img=
+    api: https://api.qjqq.cn/api/Imgcolor?img=
     time: 43200000 # api取色间隔（毫秒），默认为12小时
 
 keyboard:
@@ -344,6 +339,8 @@ hightlight:
 loading:
   fullpage: true
   pace: true
+
+mermaid: true
 
 wordcount: false
 # 访问统计
