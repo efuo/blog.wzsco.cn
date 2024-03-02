@@ -21,6 +21,7 @@ gulp.task('minify-css', () => {
 });
 //压缩html
 gulp.task('minify-html', () => {
+    // 跳过 79c5646c.html
     return gulp.src('./public/**/*.html')
         .pipe(htmlclean())
         .pipe(htmlmin({
