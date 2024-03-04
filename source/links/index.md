@@ -147,10 +147,10 @@ a(href='https://blog.wzsco.cn/' rel="external nofollow") 王卓Sco - 宁静致�
 
 <script>
 function checkForm() {
-    let comment = document.querySelector('.wl-comment');
+    let comment = document.querySelector('.tk-submit');
     if(comment===null) return;
     let checkboxes = document.querySelectorAll('#friends_checkbox input[type="checkbox"]');
-    let content = document.querySelector('.wl-editor');
+    let content = document.querySelector('.el-textarea__inner');
     let allChecked = Array.from(checkboxes).every(checkbox => checkbox.checked);
     if (allChecked) {
         comment.style.display = 'block';
