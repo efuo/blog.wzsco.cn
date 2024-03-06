@@ -115,13 +115,6 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: solitude
 
-# Deployment
-deploy:
-  type: git
-  repo: git@47.101.166.159:/home/git/repo/blog.git
-  #  repo: git@github.com:wleelw/solitude-demo.git
-  branch: main
-
 # search
 search:
   path: search.xml
@@ -200,32 +193,3 @@ markdown:
     prepend_root: false
     post_asset: false
   inline: false
-
-
-## algolia
-algolia:
-  appId: "7DVRGQS5ZQ"
-  apiKey: "21e25743f8cd243dc2993ab2730c6998"
-  adminApiKey: "ea112930d14d74baab4aed5d81b8ac3a"
-  chunkSize: 5000
-  indexName: "web-blog"
-  fields:
-    - content:strip:truncate,0,500
-    - excerpt:strip
-    - gallery
-    - permalink
-    - photos
-    - slug
-    - tags
-    - title
-
-swpp:
-  # 是否启用插件
-  enable: false
-  # 是否在发布前自动执行脚本
-  #  auto_exec: true
-  # 构建时拉取版本文件的警告等级，缺省为 1（该功能仅在 swpp-backends 版本号 >= 2.1.2 时可用）
-  # 0 - 表示不允许出现 404 情况；1 - 表示允许服务器返回 404 状态码；2 - 表示允许任何 404（包括 DNS 解析失败等）
-  #  warn_level: 1
-  # 检查版本的 URL，不能以 '/' 结尾
-  # npm_url: 'https://registry.npmmirror.com'
